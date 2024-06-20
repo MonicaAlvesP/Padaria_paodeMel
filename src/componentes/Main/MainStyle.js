@@ -27,6 +27,7 @@ export const Card = styled.div`
 
     img {
         height: 200px;
+        width: 200px;
         border-radius: 50px;
     }
 `
