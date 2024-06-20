@@ -1,8 +1,17 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Padaria Pão de Mel
 
-Currently, two official plugins are available:
+Criei este projeto em aula, quando fazia o curso de frontend na #VainaWeb.
+Nele estudamos sobre setTimeout, useState, e como adicionar uma mensagem programada.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Melhorias
+
+Ciei uma API com fotos e preços de paes e bolos, para ser consumida no frontend, via axios, e também adicionei estilos com Styled-Component [20-06-2024].
+
+
+## Tecnologias Utilizadas
+
+- Node.js
+- Express
+- Axios (para requisições HTTP no frontend)
+- React
