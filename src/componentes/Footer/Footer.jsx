@@ -1,39 +1,39 @@
-import React, {useState} from "react";
+import React, { useState, useEffect } from "react";
 import { FooterContainer } from "./FooterStyle";
 
 function Footer() {
-    // setTimeout método que executa um bloco de código depois de um determinado tempo.
-    //Estrutura de setTimeout()
-    //setTimeout(() => {}, tempo)
+  const [numero, setNumero] = useState(0);
 
-    const Mensagem = () => {
-        setTimeout(() => {
-            alert("Na compra de 2 pedaços de Bolo, ganhe 1 totalmente de graça!")
-        }, 3000)
-    }
+  const Mensagem = () => {
+    setTimeout(() => {
+      alert("Na compra de 2 pedaços de Bolo, ganhe 1 totalmente de graça!");
+    }, 3000);
+  };
 
+  const increment = () => {
+    setNumero(numero + 1);
+  };
 
-    //setInterval => xecuta um bloco de código a cada intervalo de tempo
-    /*const Mensagem2 = () => {
-        setInterval(() => {
-            alert("VOCÊ NÂO POSUI CADASTRO EM NOSSO SITE!!!")
-        }, 5000)
-    }*/
+  const decrement = () => {
+    setNumero(numero - 1);
+  };
 
-    const [numero, setNumero] = useState(0)
+  useEffect(() => {
+    document.title = `Contador: ${numero}`;
+  }, [numero]);
 
-    return(
-        <FooterContainer>
-            <h3>Mensagem do setTimeout</h3>
-            <button onClick={Mensagem}>Mensagem</button>
-            <section>
-                <h3>Contador com setTimeout</h3>
-                <h3> {numero} </h3>
-                <button>+</button>
-                <button>-</button>
-            </section>
-        </FooterContainer>
-    )
+  return (
+    <FooterContainer>
+      <h3>Mensagem do setTimeout</h3>
+      <button onClick={Mensagem}>Mensagem</button>
+      <section>
+        <h3>Contador com setTimeout</h3>
+        <h3>{numero}</h3>
+        <button onClick={increment}>+</button>
+        <button onClick={decrement}>-</button>
+      </section>
+    </FooterContainer>
+  );
 }
 
-export default Footer
+export default Footer;
