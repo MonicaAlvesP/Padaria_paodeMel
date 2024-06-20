@@ -1,4 +1,5 @@
 import React, {useState} from "react";
+import { FooterContainer } from "./FooterStyle";
 
 function Footer() {
     // setTimeout método que executa um bloco de código depois de um determinado tempo.
@@ -7,7 +8,7 @@ function Footer() {
 
     const Mensagem = () => {
         setTimeout(() => {
-            alert("Na compra de 2 pasteis, ganhe 1 totalmente de graça!")
+            alert("Na compra de 2 pedaços de Bolo, ganhe 1 totalmente de graça!")
         }, 3000)
     }
 
@@ -22,7 +23,7 @@ function Footer() {
     const [numero, setNumero] = useState(0)
 
     return(
-        <footer>
+        <FooterContainer>
             <h3>Mensagem do setTimeout</h3>
             <button onClick={Mensagem}>Mensagem</button>
             <section>
@@ -31,7 +32,7 @@ function Footer() {
                 <button>+</button>
                 <button>-</button>
             </section>
-        </footer>
+        </FooterContainer>
     )
 }
 
