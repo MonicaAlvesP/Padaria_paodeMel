@@ -6,7 +6,7 @@ Nele estudamos sobre setTimeout, useState, e como adicionar uma mensagem program
 
 ## Melhorias
 
-Ciei uma API com fotos e preços de paes e bolos, para ser consumida no frontend, via axios, e também adicionei estilos com Styled-Component [20-06-2024].
+Criei uma API com fotos e preços de paes e bolos, para ser consumida no frontend, via axios, e também adicionei estilos com Styled-Component [20-06-2024].
 
 
 ## Tecnologias Utilizadas
