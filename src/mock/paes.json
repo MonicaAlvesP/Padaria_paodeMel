@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nome": "Pão Francês",
+    "preco": 0.50,
+    "imagem": "https://static.wixstatic.com/media/8024f8_bac82cd0e1fd46a4966ef91db685dbf9~mv2.jpg/v1/fill/w_568,h_378,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/8024f8_bac82cd0e1fd46a4966ef91db685dbf9~mv2.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Pão de Forma",
+    "preco": 3.00,
+    "imagem": "https://pt.petitchef.com/imgupl/recipe/pao-de-forma-caseiro-e-bem-facil--455898p708561.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Pão Integral",
+    "preco": 3.50,
+    "imagem": "https://conteudo.imguol.com.br/c/entretenimento/24/2016/12/06/pao-integral-fatia-de-pao-integral-1481039924167_v2_4x3.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Pão de Milho",
+    "preco": 2.50,
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZvdzTXWwc3lanafnixjaYFmAkK1_9odn-wQ&s"
+  },
+  {
+    "id": 5,
+    "nome": "Pão de Queijo",
+    "preco": 1.00,
+    "imagem": "https://www.osazeitesdaespanha.com/wp-content/uploads/2024/05/homemade-brazilian-cheese-bread-pao-de-queijo-2024-05-06-16-41-08-utc-1.jpg.webp"
+  },
+  {
+    "id": 6,
+    "nome": "Pão Sírio",
+    "preco": 2.00,
+    "imagem": "https://i.ytimg.com/vi/6ebM5XIeRn4/maxresdefault.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Pão de Centeio",
+    "preco": 4.00,
+    "imagem": "https://lirp.cdn-website.com/33406c6e/dms3rep/multi/opt/pao-de-centeio-1920w.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "Pão Australiano",
+    "preco": 5.00,
+    "imagem": "https://vitat.com.br/receitas/images/recipeshandler.jpg?id=5644&tipo=r&default=s"
+  }
+]

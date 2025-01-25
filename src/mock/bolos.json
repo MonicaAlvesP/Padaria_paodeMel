@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nome": "Bolo de Chocolate",
+    "preco": 25.00,
+    "imagem": "https://recipesblob.oetker.com.br/assets/3074619b1a784bebaffd1bb1d00c26d3/1272x764/ai_bolo-de-chocolate.webp"
+  },
+  {
+    "id": 2,
+    "nome": "Bolo de Cenoura",
+    "preco": 20.00,
+    "imagem": "https://blog.ceraflame.com.br/wp-content/uploads/2021/05/Bolo-de-cenoura.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Bolo de Fubá",
+    "preco": 18.00,
+    "imagem": "https://s2-receitas.glbimg.com/5rvytTYCmTaPYu8yCsaya0GaA08=/0x0:1000x667/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/Q/C/2DeqRTSI2oR5wVBFVVOw/delicious-cornmeal-cake-traditional-brazilian-cake.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Bolo de Laranja",
+    "preco": 22.00,
+    "imagem": "https://receitatodahora.com.br/wp-content/uploads/2022/12/bolo-de-laranja-de-liquidificador-receita-toda-hora-1024x683.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Bolo de Coco",
+    "preco": 24.00,
+    "imagem": "https://renata.com.br/images/receitas/190/renata-imagem-receitas-bolo-de-coco-share.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Bolo de Limão",
+    "preco": 23.00,
+    "imagem": "https://receitadaboa.com.br/wp-content/uploads/2024/09/bolo-de-limao-1.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Bolo de Morango",
+    "preco": 26.00,
+    "imagem": "https://media.receitex.com.br/2023/09/bolo-de-morango-simples-1694730460-1208381490.png.webp"
+  },
+  {
+    "id": 8,
+    "nome": "Bolo de Abacaxi",
+    "preco": 27.00,
+    "imagem": "https://i.ytimg.com/vi/LCTEzQCG8-I/maxresdefault.jpg"
+  }
+]

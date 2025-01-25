@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nome": "Doce de Leite",
+    "preco": 5.00,
+    "imagem": "https://receitatodahora.com.br/wp-content/uploads/2024/08/doce-de-leite-cremoso-3-2708-1024x683.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Brigadeiro",
+    "preco": 6.50,
+    "imagem": "https://static.itdg.com.br/images/1200-675/a373f494abb2c3360b9966f5abe130e2/brigadeiro-.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Beijinho",
+    "preco": 4.75,
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lW4ii2Y6Uwi1ImJyWswyeR5smlLQWjIPvw&s"
+  },
+  {
+    "id": 4,
+    "nome": "Quindim",
+    "preco": 7.20,
+    "imagem": "https://i.ytimg.com/vi/cmPKNKjRGk0/hqdefault.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Pudim",
+    "preco": 8.00,
+    "imagem": "https://s2-receitas.glbimg.com/jK-kMTPr3Yzex9P93zqt4DSsFXo=/0x0:1366x768/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2023/z/0/RsipkzTEu0Y1PGiavCpA/pudim-de-leite-condensado.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Cajuzinho",
+    "preco": 5.50,
+    "imagem": "https://panelaterapia.com/wp-content/uploads/2024/05/int-doce-cajuzinho-620x413.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Bolo de Rolo",
+    "preco": 6.00,
+    "imagem": "https://cdn-productdbimages.barry-callebaut.com/sites/bc_productdb_images/files/styles/mdp_web_gm_chocac-detail/public/externals/e0c8915a957cb91373b34aa967ff5595.jpg?itok=Pq5N4bO4"
+  },
+  {
+    "id": 8,
+    "nome": "Torta de Limão",
+    "preco": 7.75,
+    "imagem": "https://i.ytimg.com/vi/cc8QuY7seFQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDHfU0p07v2sulyvWfEhKkk4HA2Jg"
+  }
+]

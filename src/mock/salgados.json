@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nome": "Coxinha",
+    "imagem": "https://imagem.band.com.br/35/f_212635.jpg",
+    "preco": 5.00
+  },
+  {
+    "id": 2,
+    "nome": "Empada",
+    "imagem": "https://www.sabornamesa.com.br/media/k2/items/cache/21615ff211c60b43d866a2b2bca320da_XL.jpg",
+    "preco": 4.50
+  },
+  {
+    "id": 3,
+    "nome": "Pastel",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRdL_aS7iKZ45SDfU0CHJqYjXdLe4EckoYA&s",
+    "preco": 6.00
+  },
+  {
+    "id": 4,
+    "nome": "Kibe",
+    "imagem": "https://www.estadao.com.br/resizer/v2/VKOTYNAZPFC3NPO436KDK5KMYE.jpeg?quality=80&auth=d28d2825ae9a95a00c9a33efee2b058fcc6ed2aa583e75b046f8ff22239ddbef&width=720&height=503&focal=495,653",
+    "preco": 3.50
+  },
+  {
+    "id": 5,
+    "nome": "Esfiha",
+    "imagem": "https://static.itdg.com.br/images/360-240/c03e118b5e3784b87bb9a812d3af1f28/146542-247534-original.jpg",
+    "preco": 4.00
+  },
+  {
+    "id": 6,
+    "nome": "Bolinho de Queijo",
+    "imagem": "https://anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-3628-c12f84d41f945ccc5ce77958b100781f.jpg",
+    "preco": 5.50
+  },
+  {
+    "id": 7,
+    "nome": "Risole",
+    "imagem": "https://static.tvgazeta.com.br/uploads/2023/02/Risole-Pratico.jpg",
+    "preco": 4.20
+  },
+  {
+    "id": 8,
+    "nome": "Croquete",
+    "imagem": "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2022/07/28/577306337-croquete-carne-moida-tradicional-768x512.jpg",
+    "preco": 3.80
+  }
+]

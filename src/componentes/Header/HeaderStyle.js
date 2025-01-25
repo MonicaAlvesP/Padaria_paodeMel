@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const HeaderNav = styled.header`
-    background-color: #f7f7f7;
+     background-color:rgb(90, 21, 42);
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
     position: sticky;
     top: 0;
@@ -27,6 +27,7 @@ export const Navigation = styled.nav`
 
     li {
         cursor: pointer;
+        color: #fff;
     }
 
     li:hover {

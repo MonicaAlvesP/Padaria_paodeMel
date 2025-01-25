@@ -1,8 +1,8 @@
 import React from 'react'
 import Header from '../src/componentes/Header/Header.jsx'
 import Main from '../src/componentes/Main/Main.jsx'
-import Footer from './componentes/Footer/Footer.jsx'
 import { createGlobalStyle } from 'styled-components'
+import { Footer } from './componentes/Footer/Footer.jsx'
 
 const GlobalStyle = createGlobalStyle`
   * {

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nome": "Tradicional",
+    "imagem": "https://i.ytimg.com/vi/zQKBeKweEVE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDLu58OhNdEQ8tmE4IrtChA8KsYmQ",
+    "preco": 5.00
+  },
+  {
+    "id": 2,
+    "nome": "Chocolate",
+    "imagem": "https://harald.com.br/wp-content/uploads/2018/04/paodemelrecheado-brigadeiromelken-top-peron-05-2016-700x520-1.jpg",
+    "preco": 6.00
+  },
+  {
+    "id": 3,
+    "nome": "Doce de Leite",
+    "imagem": "https://s2-receitas.glbimg.com/cChuVpvzVzUiSZfDptL5japtDa8=/0x0:1510x647/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2024/3/r/dlFOmJRVWfTCmeftIy3g/pao-de-mel-com-doce-de-leite.jpg",
+    "preco": 6.50
+  },
+  {
+    "id": 4,
+    "nome": "Nozes",
+    "imagem": "https://moinhoglobo.com.br/wp-content/uploads/2016/04/pao-de-mel-recheado-1.jpg",
+    "preco": 7.00
+  },
+  {
+    "id": 5,
+    "nome": "Coco",
+    "imagem": "https://s2.glbimg.com/KaJ0IVBsMcasSaYlfcdzh_uHXX0=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/07/13/pao_de_mel.jpg",
+    "preco": 6.00
+  },
+  {
+    "id": 6,
+    "nome": "Morango",
+    "imagem": "https://live.staticflickr.com/8186/8128726699_9bd4ac671b_z.jpg",
+    "preco": 6.00
+  },
+  {
+    "id": 7,
+    "nome": "Abacaxi",
+    "imagem": "https://claudia.abril.com.br/wp-content/uploads/2020/02/receita-pao-mel-chocolate-branco-cachaca.jpg",
+    "preco": 6.00
+  },
+  {
+    "id": 8,
+    "nome": "Banana",
+    "imagem": "https://herancaholandesa.com.br/wp-content/uploads/sites/9/2022/08/PAO-DE-BANANA-E-MEL-scaled.jpg",
+    "preco": 6.00
+  }
+]
